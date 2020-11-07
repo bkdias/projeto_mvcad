@@ -1,2 +1,2 @@
 # projeto_mvcad
-projeto Python do MVCAD
+Projeto que faz a gestão de inscrições no curso MVCAD
